@@ -3,8 +3,9 @@
 This challenge focuses on creating a tool to create and save sprite images for use in your games. The sprites are constructed from the 
 sprite components created by opengameart user TokyoGeisha. The included code handles loading the images from the spritesheets or you
  are welcome to use your own implementation.
- 
-Github repo:
+
+
+Challenge thread: https://www.reddit.com/r/pygame/comments/4g3m7n/challenge_buildasprite/
 
 #Challenge
 
@@ -25,7 +26,7 @@ The image loading in the provided code creates a dict for each type of sprite co
 
 [Expansion Pack 2]( http://opengameart.org/content/pixel-people-extras-2)
 
-[Reorganized Spritesheets]() - even if you're not using the provided code, it'll probably be easier to just download the whole repo
+[Reorganized Spritesheets](https://github.com/reddit-pygame/sprite-builder/tree/master/resources/graphics) - even if you're not using the provided code, it'll probably be easier to just download the whole repo
 
 ###Achievements
 
