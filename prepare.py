@@ -33,6 +33,7 @@ GFX   = load_all_gfx(os.path.join("resources", "graphics"))
 
 #Sprite component image loading
 HATS = load_images(GFX["hats"], (816, 116), 1, 34, (68, 116), 12)
+SPECIAL_HATS = strip_from_sheet(GFX["special-hats"], (0, 0), (68, 116), 5)
 HAIR = load_images(GFX["hair"], (1020, 116), 1, 5, (68, 116), 15)                                          
 SKIN = strip_from_sheet(GFX["skin"], (0, 0), (68, 112), 12)
 EYES = strip_from_sheet(GFX["eyes"], (0, 0), (68, 112), 17)
